@@ -11,16 +11,15 @@ O Proffy é uma plataforma feita para conectar alunos e professores, desenvolvid
 As tecnologias utilizadas no desenvolvimento do projeto foram:
 
 - [TypeScript](https://www.typescriptlang.org/)
-- [React](https://reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [Expo](https://expo.io/)
 - [Node](https://nodejs.org/en/)
 - [Express](https://expressjs.com/)
 - Banco de dados relacional
 - [Knex](http://knexjs.org/)
+- [React](https://reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.io/)
 
 <br/>
-
 
 <p align="center">
   <img src=".github/proffy.png" alt="Proffy"/>
@@ -43,38 +42,34 @@ $ cd proffy/server
 # Instale as dependências
 $ npm install
 
-# Rode o servidor
 $ npm start
 ```
 
 <br>
 
-### Web (Front-end)
+### Web 
 
 ```bash
-# Entre na pasta web com 
 $ cd proffy/web
 
 # Instale as dependências
 $ npm install
 
-# Rode o aplicação
 $ npm start
 ```
 
 <br>
 
-### Mobile (App)
+### Mobile
 
-#### É preciso ter o EXPO intalado, saiba mais aqui -> [Expo](https://expo.io/)
+#### É preciso ter o EXPO instalado, saiba mais aqui -> [EXPO](https://expo.io/)
 ```bash
-# Entre na pasta mobile com 
+
 $ cd proffy/mobile
 
 # Instale as dependências
 $ npm install
 
-# Rode o app
 $ npm start
 ```
 
