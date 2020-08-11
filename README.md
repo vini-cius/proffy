@@ -21,11 +21,18 @@ As tecnologias utilizadas no desenvolvimento do projeto foram:
 
 <br/>
 
+
+<p align="center">
+  <img src=".github/proffy.png" alt="Proffy"/>
+</p>
+
+<br/>
+
 ## Instalação e uso
 
 ```bash
 # Clone o repositório
-$ git clone https://github.com/martins-rafael/proffy.git
+$ git clone https://github.com/vini-cius/proffy.git
 
 ```
 ### API (Back-end)
